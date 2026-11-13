@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.cloudflare*/
+.wrangler/
+*.log
+*.zip
+*.tar.gz
+.DS_Store
+Thumbs.db

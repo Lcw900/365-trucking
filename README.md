@@ -154,4 +154,3 @@ See [deployment notes](CLOUDFLARE.md) for static hosting. The live app and this 
 ## Design and asset credit
 
 Customer and driver UX originated in the supplied [365 Trucking Figma design](https://www.figma.com/design/OsjTAlL1OzWdFd5bjw7BQy/365-Trucking--Copy-). Brand artwork was supplied for this project. Third-party design assets and fonts retain their respective rights; this repository does not grant additional rights to them. No open-source license has been assigned to the project.
-

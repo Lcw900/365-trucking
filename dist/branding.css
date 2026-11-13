@@ -1,0 +1,18 @@
+/* Updated supplied brand artwork. Preserve the original images without recoloring. */
+.brand{width:116px;height:78px;overflow:hidden;border-radius:5px}
+.brand img{position:static;display:block;width:100%;height:100%;object-fit:contain;filter:none}
+.customer-brand{width:174px;height:62px;overflow:hidden;border-radius:4px}
+.customer-brand img{width:100%;height:100%;object-fit:cover;object-position:center top;filter:none!important}
+.d-logo{width:174px;height:62px;overflow:hidden;border-radius:4px}
+.d-logo img{width:100%;height:100%;object-fit:cover;object-position:center top;filter:none!important}
+.d-auth-heading .d-logo{width:144px;height:96px;margin-inline:auto}
+.d-auth-heading .d-logo img{object-fit:contain}
+.footer-logo{width:156px!important;height:104px!important;object-fit:contain}
+.a-brand img{width:100px!important;height:68px!important;object-fit:contain;border-radius:4px}
+@media(max-width:600px){.brand{width:84px;height:56px}.customer-brand,.d-logo{width:132px;height:48px}.header-inner{gap:12px}}
+
+.secure-brand{display:block;width:144px;height:96px;margin:0 auto 24px}.secure-brand img{display:block;width:100%;height:100%;object-fit:contain}
+
+.d-header .d-logo{width:116px;height:78px}.d-header .d-logo img{object-fit:contain;object-position:center}@media(max-width:600px){.d-header .d-logo{width:84px;height:56px}}
+
+.customer-brand{width:116px;height:78px}.customer-brand img{object-fit:contain;object-position:center}.customer-brand .light-header-logo{display:none}.dashboard-header .customer-brand .light-header-logo{display:block}.dashboard-header .customer-brand .red-header-logo{display:none}@media(max-width:600px){.customer-brand{width:84px;height:56px}}
